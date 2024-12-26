@@ -1,0 +1,21 @@
+header {
+    background: #4b0081;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.searchBox {
+    align-content: center;
+}
+
+.toggler {
+    background-color: #ffff;
+    border-radius: 50px;
+    padding: 5px;
+}
+
+label.celcius {
+    margin-right: 15px;
+}

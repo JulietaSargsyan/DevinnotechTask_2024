@@ -1,0 +1,18 @@
+.weatherList {
+    list-style: none;
+}
+
+.weatherList li {
+    border-bottom: 1px solid black;
+    display: flex;
+    align-items: center;
+    height: 3rem;
+}
+
+.weatherList img {
+    height: inherit;
+}
+
+.weatherList p {
+    margin-right: 10px;
+}
